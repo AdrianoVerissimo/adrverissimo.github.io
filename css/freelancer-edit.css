@@ -24,3 +24,13 @@
 	display: inline-block;
 	max-width: 100%;
 }
+
+.portfolio-item
+{
+	text-align: center;
+}
+.portfolio-item img
+{
+	display: inline-block;
+}
+
