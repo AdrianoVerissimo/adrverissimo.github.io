@@ -1,0 +1,26 @@
+.btn-contact
+{
+	color: #FFF;
+	background-color: #18bc9c;
+}
+.btn-contact:hover
+{
+	border-color: #18bc9c;
+}
+.panel-experiences
+{
+	width: 100%;
+	padding-top: 50px;
+}
+.panel-experiences .item
+{
+	height: 200px;
+	line-height: 200px;
+	text-align: center;
+	vertical-align: middle;
+}
+.panel-experiences .item img
+{
+	display: inline-block;
+	max-width: 100%;
+}
