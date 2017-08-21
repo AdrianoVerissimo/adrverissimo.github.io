@@ -46,3 +46,12 @@
 {
 	list-style: none;
 }
+.close-modal
+{
+	position: fixed;
+}
+
+.social-links .btn-social
+{
+	font-size: 30px;
+}
